@@ -3,7 +3,7 @@
 ## .... .- -.-. -.- - --- -... . .-. ..-. . ... - -.-.--
 
 ## Solution:
-HACKTOBERFEST!
+_The SOLUTION should be placed here!_
 
 ## Solving Methodology:
-Decoded Morse Code. -@baibhavanand
+_The SOLVING METHODOLOGY should be placed here, however it is optional._
